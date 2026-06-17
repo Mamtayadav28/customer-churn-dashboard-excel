@@ -6,7 +6,7 @@ This project analyzes customer churn behavior using an interactive Excel dashboa
 ---
 
 ## 📊 Dashboard Preview
-![Dashboard](Dashboard.png)
+![Dashboard](customer_churn_dashboard.xlsx)
 
 ---
 
